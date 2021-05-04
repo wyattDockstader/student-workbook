@@ -18,7 +18,7 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
-          GITHUB_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.DEPLOY_SECRET }}
           REPOSITORY_NAME: wyattDockstader/blog # TODO 
           BRANCH: gh-pages 
           FOLDER: src/.vuepress/dist 
