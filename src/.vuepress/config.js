@@ -3,11 +3,11 @@ const path = require("path");
 const { config } = require("vuepress-theme-hope");
 
 
-const GITHUB_USERNAME = 'REPLACE_ME' // TODO 
+const GITHUB_USERNAME = 'wyattDockstader' // TODO 
 
 
 module.exports = config({
-  base: "/blog/",
+  base: "/Blog/",
   title: 'Codeworks Student Learning Blog',
   description: "My thoughts notes and reflections while attending Codeworks Immersive FullStack Program",
   head: [
