@@ -21,13 +21,13 @@ html open and closing tags
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+hyper text markup language
 ```
 
 **5.** What Does `CSS` stand for?
-<!-- enter you answer in the space below -->
+h1 - selector, color - property, rgba - value
 ```
-
+cascading style sheets
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
@@ -38,7 +38,7 @@ html open and closing tags
 ```
 <!-- enter you answer in the space below -->
 ```
-
+h1 - selector, color - property, rgba - value
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
