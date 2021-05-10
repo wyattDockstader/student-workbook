@@ -1,3 +1,6 @@
+John Deere- Partner Clone site: https://wyattdockstader.github.io/partner-clone-site/
+
+
 <b>What is the purpose of wire-framing?</b>
 
 Wire framing is a design method that allows you to quickly create and demo a website design.  This not only helps with the overall design process and gives full scope of a project but allows users and stakeholders to supply input to the designer early in development saving time, money and utimately delivering a better product to the end user.

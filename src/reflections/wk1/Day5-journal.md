@@ -1,0 +1,3 @@
+Check point Clone Site: https://wyattdockstader.github.io/checkpoint-clone/
+
+I had no idea what to expect from Boise Code Works.  I was nervous about changing industries and not working for 13 weeks.  After a week at BCW I have no doubt in my mind that I've made a good choice.  I enjoy coding and it seems to come naturally to me.  Looking back on the week I'm proud of what I've accomplished and I'm excited to move forward.
