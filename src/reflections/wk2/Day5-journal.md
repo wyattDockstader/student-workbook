@@ -1,0 +1,2 @@
+
+Week two was definatly more challenging than week one.  I feel far more confident with javascript and my structure and syntax is improving.  Overall i have a good feeling about the program and my future in coding ..... except switches .... theyre bad news.
