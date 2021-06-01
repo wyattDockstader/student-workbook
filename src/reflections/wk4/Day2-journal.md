@@ -1,3 +1,4 @@
+https://wyattdockstader.github.io/gregslist-v1/
 
 <b>What are the three states of a Promise?</b>
 Pending, Resolved, and Rejected
