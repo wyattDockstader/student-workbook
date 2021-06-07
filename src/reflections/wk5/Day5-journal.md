@@ -1,0 +1,1 @@
+I feel like this is going to be one of my hardest weeks because it was so short, bring on the tutoring session.
